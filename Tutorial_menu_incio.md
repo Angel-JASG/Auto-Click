@@ -14,7 +14,7 @@ Para realizar este tutorial, sigue estos pasos:
      ```
 
     <!-- Captura: Navegando a la carpeta -->
-    ![Captura de pantalla: Carpeta de menú inicio](Fotos\carpeta.png)
+    ![Captura de pantalla: Carpeta de menú inicio](Fotos\Carpeta.png)
 
 3. Pega el acceso directo en esa carpeta.
 
@@ -24,6 +24,6 @@ Para realizar este tutorial, sigue estos pasos:
 4. Presiona la tecla **Windows** y busca "Auto Click" para ejecutar el programa.
 
     <!-- Captura: Buscando Auto Click en el menú inicio -->
-    ![Captura de pantalla: Ejecutando Auto Click](Fotos/final.png)
+    ![Captura de pantalla: Ejecutando Auto Click](Fotos/Final.png)
 
 ¡Listo! Ahora tendrás acceso rápido a Auto Click desde el menú de inicio.
