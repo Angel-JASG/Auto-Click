@@ -14,7 +14,7 @@ Para realizar este tutorial, sigue estos pasos:
      ```
 
     <!-- Captura: Navegando a la carpeta -->
-    ![Captura de pantalla: Carpeta de menú inicio](Fotos\Carpeta.png)
+    ![Captura de pantalla: Carpeta de menú inicio](Fotos/Carpeta.png)
 
 3. Pega el acceso directo en esa carpeta.
 
